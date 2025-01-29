@@ -35,3 +35,17 @@ Other Skills: API Design, Microservices Architecture, RESTful Services
 January 2019 – Present
 
 - Led the design and implementation of a microservices architecture, reducing deployment time by 30%.
+
+---
+Education
+
+---
+certification
+
+---
+
+PROJECTS
+
+---
+
+LANGUAGES
